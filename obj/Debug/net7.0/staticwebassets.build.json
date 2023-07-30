@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WE91Eo0GYttZrqbuqnnD8WxAeCsxTbEtv1icgT9OQUU=",
+  "Source": "AzureStore",
+  "BasePath": "_content/AzureStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
